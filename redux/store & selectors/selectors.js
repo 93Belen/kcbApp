@@ -1,0 +1,1 @@
+export const selectViewModal = (state) => state.viewModal;
